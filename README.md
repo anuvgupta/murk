@@ -24,7 +24,6 @@ I love fantasy/medieval-themed things, (movies, TV, games, books). I've always i
 This is the outline included in the original readme with which I turned in the project; it details the storyline and gameplay basics.  
 
 OUTLINE  
--------  
 1. Storyline theme  
     User assumes role of minstrel (musician) in fictional medieval kingdom
     and encounters a series of survival challenges. User has health, money, stamina.
