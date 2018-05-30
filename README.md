@@ -1,5 +1,5 @@
 # murk
-Text/console-based fantasy mini-RPG in Java
+Text/console-based fantasy mini-RPG in Java  
 *Console gaming project for my Computer Programming class*
 
 ## idea
