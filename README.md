@@ -3,7 +3,7 @@ Text/console-based fantasy mini-RPG in Java
 *Console gaming project for my Computer Programming class*
 
 ## idea
-I love fantasy/medieval-themed things, (movies, TV, games, books). I've always imagined a fictional land called Murk, similar to the epic worlds of Tolkien's Middle Earth, the Elder Scrolls universe, Game of Thrones, etc. all full of kingdoms, magic, creatures, gods, and lore. SO naturally, when asked to make a console game, I had to make a text-based RPG in a fictional land. Read the outline below for storyline and gameplay details.
+Guilty pleasure: I enjoy fantasy-themed media and so-called medieval literature. So one day I read too much, and imagined a fictional land similar to the epic worlds of Tolkien's Middle Earth, or the Elder Scrolls universe, or Game of Thrones, what have you. Full of kingdoms, magic, creatures, gods, and lore. So naturally, when asked to make a console game, I had to make a text-based RPG about the land of Murk. Read the outline below for storyline and gameplay details.
 
 ## instructions
  1. Install [Java 8](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
