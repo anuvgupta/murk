@@ -1,5 +1,5 @@
 # murk
-Text/console-based fantasy mini-RPG in Java  
+SFHS Computer Science — Console-based fantasy mini-RPG in Java  
 *Console gaming project for my Computer Programming class*
 
 ## idea
@@ -65,3 +65,8 @@ OUTLINE
                 5. jump into a volcano  
                 6. get drunk on Murky Ale  
     6. user must collect as many gems as he/she can before returning to the king. Then user wins!  
+
+
+
+&nbsp;  
+*2015*
